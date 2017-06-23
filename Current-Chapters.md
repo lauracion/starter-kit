@@ -116,7 +116,15 @@ Corinne Riddell, Kathryn Morrison
 - twitter:
 - email: montreal@rladies.org
 
+## Chile
 
+**Santiago** 
+
+Gabriela Sandoval
+
+- meetup: 
+- twitter: 
+- email: 
 
 ## Denmark
 
